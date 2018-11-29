@@ -45,3 +45,7 @@ You'll need to setup AWS credentials in your environment (e.g. via `aws configur
 ```console
 $ cdk deploy
 ```
+
+## License Summary
+
+This sample code is made available under a modified MIT license. See the LICENSE file.
