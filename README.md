@@ -1,5 +1,8 @@
 # AWS CDK re:Invent 2018 Session
 
+**ARCHIVED: This repository is no longer maintained.
+You may still follow the instructions in this README to try out the CDK.**
+
 The [AWS Cloud Development Kit (CDK)](https://github.com/awslabs/aws-cdk) is a software development framework for defining cloud infrastructure in code.  
 
 This repo contains the demo code from the [AWS re:Invent 2018 DEV372: Infrastructure ***is*** Code](https://www.youtube.com/watch?v=Lh-kVC2r2AU) session. 
